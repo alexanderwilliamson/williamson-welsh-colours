@@ -10,7 +10,6 @@ body {
 body > div {
   height: 100vh;
   flex-grow: 1;
-  padding: 5px;
 }
 
 .chartreuse {
