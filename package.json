@@ -1,0 +1,16 @@
+{
+  "name": "williamson-welsh-wedding-pallete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "browser-sync start --server"
+  },
+  "author": "Alexander Williamson",
+  "license": "ISC"
+}

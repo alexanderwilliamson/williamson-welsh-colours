@@ -1,0 +1,63 @@
+body {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  padding: 0px;
+  font-size: 12px;
+  font-family: Roboto, sans-serif;
+}
+
+body > div {
+  height: 100vh;
+  flex-grow: 1;
+  padding: 5px;
+}
+
+.chartreuse {
+  background-color: rgb(99, 179, 48);
+  width: 5%;
+}
+
+.forest-green {
+  background-color: rgb(46, 82, 48);
+  width: 15%;
+  color: #fff;
+}
+
+.shell-gray {
+  background-color: rgb(204, 184, 170);
+  width: 5%;
+}
+
+.mocha-brown {
+  background-color: rgb(240, 230, 215);
+  width: 70%;
+}
+
+.terra-cotta {
+  background-color: rgb(242, 171, 149);
+  width: 5%;
+}
+
+.orange-spice {
+  background-color: rgb(249, 135, 86);
+  width: 5%;
+}
+
+.navy {
+  background-color: #1d234d;
+  width: 15%;
+  color: #fff;
+}
+
+.red {
+  background-color: rgb(151, 11, 44);
+}
+
+.coral {
+  background-color: #f76d61;
+}
+
+.gold {
+  background-color: #feb547;
+}
